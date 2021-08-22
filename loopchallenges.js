@@ -4,3 +4,10 @@ for(i=1; i<=20; i++){
         console.log(i);
     }
 } 
+
+//2:
+for(i=100; i>0; i--){
+    if (i%3 == 0){
+        console.log(i);
+    }
+}
