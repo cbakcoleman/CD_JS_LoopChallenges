@@ -25,3 +25,10 @@ for(i = 0; i <=100; i++){
     sum += i;
 }
 console.log(sum)
+
+//5:
+factorial=1;
+for(i=1; 1<=12; i++){
+    factorial *= i;
+}
+console.log(factorial)
