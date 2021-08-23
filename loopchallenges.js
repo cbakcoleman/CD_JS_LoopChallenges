@@ -27,8 +27,8 @@ for(i = 0; i <=100; i++){
 console.log(sum)
 
 //5:
-factorial=1;
-for(i=1; 1<=12; i++){
-    factorial *= i;
+total=1;
+for (i=1; i <=12; i++){
+    total= total*i;
 }
-console.log(factorial)
+console.log(total)
