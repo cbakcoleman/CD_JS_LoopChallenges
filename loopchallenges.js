@@ -13,3 +13,15 @@ for(i=100; i>0; i--){
 }
 
 //3:
+i=4;
+while(i > -4){
+    console.log(i),
+    i -= 1.5;
+}
+
+//4:
+sum=0;
+for(i = 0; i <=100; i++){
+    sum += i;
+}
+console.log(sum)
